@@ -1,0 +1,49 @@
+{
+  "player_name": "Bossman",
+  "cache": [],
+  "backpack": [
+    {
+      "name": "wad",
+      "category": "bait",
+      "quantity": 1,
+      "equipped": true
+    },
+    {
+      "name": "Old Rod",
+      "category": "rod",
+      "quantity": 1,
+      "equipped": true
+    }
+  ],
+  "current_location": "Harbor",
+  "unit_system": "imperial",
+  "money": 2500.0,
+  "favor": 210,
+  "casts_since_favor_recovery": 0,
+  "owned_boons": [],
+  "active_boon": null,
+  "researched_fish": [],
+  "greeting_decks": {
+    "celia_high": [
+      "My favorite tide-watcher is here! Important question: if a wave had a name, what would it be?",
+      "I saved you the smoothest pebble. It feels like a little moon and absolutely knows things.",
+      "You came back! I was about to ask the ruins if stones dream about being sand.",
+      "I brought my lucky shell and my emergency seaweed snack. Which one should we consult first?",
+      "You make this shore more fun. Do you think the tide comes in because it misses the beach?"
+    ],
+    "celia_high_last": "The gulls were gossiping again. I think they said your name, but gull is tricky to translate.",
+    "rupert_godfrey": [
+      "Welcome to the General Store. A steady hand and a good heart always find what they need.",
+      "Good to see you. We keep practical folk and honest tools here.",
+      "Need a bit of help? I'm glad to lend a hand.",
+      "If you're looking for what lasts, you've come to the right place.",
+      "The shelves may be quiet, but the service is always warm."
+    ],
+    "rupert_godfrey_last": "Hard work keeps a town standing. That is the kind of work I believe in."
+  },
+  "time_minutes": 399,
+  "selected_bait": "wad",
+  "selected_rod": "Old Rod",
+  "selected_lure": null,
+  "purchased_coolers": {}
+}
